@@ -1,1 +1,11 @@
+A4
+A3
+DWG To PDF
+Adobe PDF
+acad.ctb
+monochrome.ctb
+100
 
+
+True
+C:\Users\adnan.birparic\Desktop
